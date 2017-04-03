@@ -1,3 +1,7 @@
 sdsdsfd
 hello
+<<<<<<< HEAD
 it's the new_f
+=======
+hello ggggthe branch master
+>>>>>>> master
